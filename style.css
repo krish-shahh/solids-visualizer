@@ -90,6 +90,30 @@ button:active {
     background-color: #e0e0e0
 }
 
+a:link {
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+        }
+
+        a:visited {
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+        }
+
+        a:hover {
+        color: black;
+        background-color: transparent;
+        text-decoration: underline;
+        }
+
+        a:active {
+        color: black;
+        background-color: transparent;
+        text-decoration: underline;
+        }
+
 @media only screen and (max-width: 600px) {
     #visualizer-container {
         width: 100%;
